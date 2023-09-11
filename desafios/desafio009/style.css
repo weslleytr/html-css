@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(53, 53, 53);
+    color: white;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+picture img{
+    border-radius: 10px;
+}
